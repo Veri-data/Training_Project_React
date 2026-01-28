@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  return <div className='text-2xl text-red-900'>Hello </div>
+  return <div className='text-2xl text-red-900'>Hello world</div>
 }
 
 export default App
